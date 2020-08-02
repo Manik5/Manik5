@@ -1,6 +1,6 @@
-<p align='center'>
-  ####Hi There, I'm Manik
-<p/>  
+<h1 align='center'>
+    Hi there 👋 I'm Manik👨‍💻
+</h1>
 
 
 <p align='center'>
