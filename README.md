@@ -36,14 +36,11 @@
 </h3>
 
 ```javascript
-const manik = {
-  pronouns: "he" | "him",
-  techStack: {
-      frontend: [HTML, CSS, SASS, Javascript ES6],
-      backend: [Ruby, Python],
-      frameworks: [Rails, React, React Native]
-      tools: [VsCode, Figma, Coffee]
-  }
+techStack: {
+  frontend: [HTML, CSS, SASS, Javascript ES6],
+  backend: [Ruby, Python],
+  frameworks: [Rails, React, React Native]
+  tools: [VsCode, Figma, Coffee]
 }
 ```
 
