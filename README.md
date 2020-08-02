@@ -1,13 +1,6 @@
-### Hi there 👋, Hi, I'm Manik
-#### In progress Full-Stack Developer, based in Italy
-I am a "still in training" Developer, with a natural curiosity and passion for the tech world. I develop mostly with React, React Native and Rails.
-
-Powered by Figma, VS Code and some coffee, I aim to deliver solid, clean, reusable code, and a simple, beautiful UI/UX experience. 
-
-Skills: HTML | CSS | Javascript ES6 | Ruby | Rails | React 
-
-- 💬 Ask me about anything :D 
-- ⚡ Fun fact: I love coffee, well, who doesn't?  
+<p align='center'>
+  ### Hi There, I'm Manik
+<p/>  
 
 
 <p align='center'>
