@@ -1,10 +1,7 @@
-<h1 align='center'>
+<h2 align='center'>
     Hi there 👋 I'm Manik👨‍💻
-</h1>
+</h2>
 
-<h3 align='center'>
-    Find me On:
-</h3>
 
 <p align='center'>
   <a href="https://manikaangurah.com/">
@@ -12,6 +9,10 @@
   </a>&nbsp;&nbsp;
 </p>
 
+
+<h3 align='center'>
+    Find me onn:
+</h3>
 
 <p align='center'>
   
