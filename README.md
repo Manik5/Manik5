@@ -8,7 +8,8 @@
 
 <p align='center>
   <a href="https://manikaangurah.com/">
-    <img src="https://img.shields.io/badge/portfolio-%2336ADD4.svg?&style=for-the-badge&logo=portfolio&logoColor=white" />      
+    <img src="https://img.shields.io/badge/portfolio-%2336ADD4.svg?&style=for-the-badge&logo=portfolio&logoColor=white" />
+  <a/>
 </p>
 
 
