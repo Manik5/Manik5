@@ -20,10 +20,10 @@ Skills: HTML | CSS | Javascript ES6 | Ruby | Rails | React
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
    <a href="https://stackoverflow.com/users/11517573/manik-a-a-ngurah">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />        
+    <img src="https://img.shields.io/badge/stackoverflow-%23E4405F.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />        
   </a>&nbsp;&nbsp;
    <a href="https://codepen.io/manik5">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=codepen&logoColor=white" />        
+    <img src="https://img.shields.io/badge/codepen-%23E4405F.svg?&style=for-the-badge&logo=codepen&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
   
