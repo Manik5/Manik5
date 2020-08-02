@@ -2,6 +2,15 @@
     Hi there 👋 I'm Manik👨‍💻
 </h1>
 
+<h3 align='center'>
+    Find me On:
+</h3>
+
+<p align='center>
+  <a href="https://manikaangurah.com/">
+    <img src="https://img.shields.io/badge/portfolio-%2336ADD4.svg?&style=for-the-badge&logo=portfolio&logoColor=white" />      
+</p>
+
 
 <p align='center'>
   
