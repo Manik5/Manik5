@@ -11,7 +11,7 @@
 
 
 <h3 align='center'>
-    Find me onn:
+    Find me on:
 </h3>
 
 <p align='center'>
@@ -35,3 +35,11 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manik5&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/Manik5)  
+
+<br />
+<br />
+
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+<br />
+<br />
+
