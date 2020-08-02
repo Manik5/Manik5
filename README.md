@@ -31,15 +31,15 @@
   
 </p> 
 
-<h3 align='center>
+<h3 align='center'>
    Tech Stack:
 </h3>
 
 <p align='center'>
-    <img src="https://img.shields.io/badge/ruby%20🟢🟢🟢🟢🟢-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/xamarin%20forms%20🟢🟢🟢🟢🟢-%233498DB.svg?&style=for-the-badge&logo=xamarin&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/dotnet%20🟢🟢🟢🟢🟢-net%23239120.svg?&style=for-the-badge&logo=dot-net&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/html%20🟢🟢🟢🟢⚪-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/ruby%20-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/xamarin%20forms%20-%233498DB.svg?&style=for-the-badge&logo=xamarin&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/dotnet%20-net%23239120.svg?&style=for-the-badge&logo=dot-net&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/html%20-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white" /> 
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manik5&show_icons=true)  
