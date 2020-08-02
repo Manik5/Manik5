@@ -39,7 +39,10 @@
 <br />
 <br />
 
+<p align='center'>
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+</p>
+
 <br />
 <br />
 
