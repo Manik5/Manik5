@@ -41,7 +41,7 @@ techStack: {
   backend: [Ruby, Python],
   frameworks: [Rails, React, React Native],
   tools: [VsCode, Figma, Coffee]
-}
+};
 ```
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manik5&show_icons=true)  
