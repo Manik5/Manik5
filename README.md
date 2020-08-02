@@ -37,9 +37,9 @@
 
 ```javascript
 techStack: {
-  frontend: [HTML, CSS, SASS, Javascript ES6],
+  frontend: [HTML, CSS, SASS, Javascript],
   backend: [Ruby, Python],
-  frameworks: [Rails, React, React Native]
+  frameworks: [Rails, React, React Native],
   tools: [VsCode, Figma, Coffee]
 }
 ```
