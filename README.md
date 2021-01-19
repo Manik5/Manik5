@@ -4,7 +4,7 @@
 
 
 <p align='center'>
-  <a href="https://manikaangurah.com/">
+  <a href="https://manikaangurah.dev/">
     <img src="https://img.shields.io/badge/portfolio-%2336ADD4.svg?&style=for-the-badge&logo=portfolio&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
