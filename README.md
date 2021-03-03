@@ -31,19 +31,6 @@
   
 </p> 
 
-    <h3 align='center'>
-       Tech Stack:
-    </h3>
-
-    ```javascript
-    techStack: {
-      frontend: [HTML, CSS, SASS, Javascript],
-      backend: [Ruby, Python],
-      frameworks: [Rails, React, React Native],
-      tools: [VsCode, Figma, Coffee]
-    };
-    ```
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manik5&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/Manik5)  
